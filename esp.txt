@@ -1,6 +1,6 @@
 Resolusi saya Ditahun 2019
 Aplikasi EL SMART PARKING
 Aplikasi ini nanti akan digunakan untuk managent parkiran berbasis IOT
-Aplikasi ini harus selesai bulan januari
 Aplikasi ini kalau bisa di implementasikan secepatnya
 Aplikasi ini akan saya buat menggunakan PHP 
+Hanya percobaan
